@@ -1,2 +1,2 @@
 # practice
-practice is goog
+practice is good
